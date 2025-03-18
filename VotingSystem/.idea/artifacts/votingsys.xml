@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="votingsys">
+    <output-path>$PROJECT_DIR$/classes/artifacts/votingsys</output-path>
+    <root id="root" />
+  </artifact>
+</component>

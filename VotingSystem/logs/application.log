@@ -1,0 +1,29 @@
+2025-01-31 18:08:27 [main] ERROR: Error in Main: {}
+java.lang.Exception: Please enter a number
+	at utils.PrintSystem.safeReadInt(PrintSystem.java:68) ~[classes/:?]
+	at votingsystem.Main.main(Main.java:24) [classes/:?]
+2025-01-31 18:13:40 [main] ERROR: Error in Main: {}
+java.lang.Exception: Please enter a number
+	at utils.PrintSystem.safeReadInt(PrintSystem.java:68) ~[classes/:?]
+	at votingsystem.Main.main(Main.java:24) [classes/:?]
+2025-01-31 18:17:43 [main] ERROR: Error in Main: {}
+java.lang.Exception: Please enter a number
+	at utils.PrintSystem.safeReadInt(PrintSystem.java:68) ~[classes/:?]
+	at votingsystem.Main.main(Main.java:24) [classes/:?]
+2025-02-01 11:11:28 [main] ERROR: Exception while election login class
+java.lang.Exception: Please enter a number
+	at utils.PrintSystem.safeReadInt(PrintSystem.java:68) ~[VotingSystem.jar:?]
+	at election.ElectionDashboard.voterDashBoard(ElectionDashboard.java:68) [VotingSystem.jar:?]
+	at vote.VoteDashboard.voteDashboardPanel(VoteDashboard.java:52) [VotingSystem.jar:?]
+	at usermanagement.VoterSystem.voterManagementsystem(VoterSystem.java:131) [VotingSystem.jar:?]
+	at usermanagement.VoterSystem.voterMenu(VoterSystem.java:45) [VotingSystem.jar:?]
+	at votingsystem.Main.main(Main.java:28) [VotingSystem.jar:?]
+2025-02-01 23:26:17 [main] ERROR: Voter Dashboard Error: arul@gmail.com -> java.util.NoSuchElementException
+2025-02-02 20:33:44 [main] ERROR: Error in Main: {}
+java.lang.Exception: Please enter a number
+	at utils.PrintSystem.safeReadInt(PrintSystem.java:68) ~[VotingSystem.jar:?]
+	at votingsystem.Main.main(Main.java:24) [VotingSystem.jar:?]
+2025-02-02 21:33:36 [main] ERROR: Error in Main: {}
+java.lang.Exception: Please enter a number
+	at utils.PrintSystem.safeReadInt(PrintSystem.java:68) ~[VotingSystem.jar:?]
+	at votingsystem.Main.main(Main.java:24) [VotingSystem.jar:?]
